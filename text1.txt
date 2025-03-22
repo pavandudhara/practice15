@@ -1,0 +1,2 @@
+git stash practice
+git stash  revision practice
